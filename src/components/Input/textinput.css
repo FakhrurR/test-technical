@@ -1,0 +1,30 @@
+.form-input {
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: rgb(238, 233, 244);
+    gap: 8px;
+    padding: 16px;
+    font-family: 'Inter', sans-serif;
+}
+
+.main-form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+}
+
+.label {
+  font-size: 12px;
+  margin-bottom: 8px;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
+}
+
+
+@media only screen and (max-width: 900px) {
+  
+}
+
+@media only screen and (max-width: 768px) {
+
+}
